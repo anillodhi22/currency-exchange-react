@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 https://github.com/anillodhi22/currency-exchange-react/assets/141266805/fa8a33d0-cfe8-4c9c-908b-d8f6a28bab5e
 
+
+
